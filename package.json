@@ -1,0 +1,25 @@
+{
+  "name": "backend-express-mongodb-ph",
+  "version": "0.0.1",
+  "description": "Ativ IV-1",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start:app": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroHenriqueAF/backend-express-mongodb-ph.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroHenriqueAF/backend-express-mongodb-ph/issues"
+  },
+  "homepage": "https://github.com/PedroHenriqueAF/backend-express-mongodb-ph#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
