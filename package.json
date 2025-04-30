@@ -1,11 +1,11 @@
 {
   "name": "backend-express-mongodb-ph",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Ativ IV-1",
-  "main": "src/index.js",
+  "main": "api/index.js",
   "type": "module",
   "scripts": {
-    "start:app": "node src/index.js"
+    "start:app": "nodemon api/index.js"
   },
   "repository": {
     "type": "git",
